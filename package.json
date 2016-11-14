@@ -1,6 +1,6 @@
 {
   "name": "hubot-duo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use DUO 2FA in your hubot scripts",
   "main": "index.coffee",
   "scripts": {
