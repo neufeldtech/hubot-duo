@@ -1,4 +1,5 @@
 # hubot-duo
+[![npm version](https://badge.fury.io/js/hubot-duo.svg)](https://badge.fury.io/js/hubot-duo)
 
 This package will allow you to make use of DUO two-factor authentication (push notifications) in your hubot scripts.
 
