@@ -1,0 +1,29 @@
+{
+  "name": "hubot-duo",
+  "version": "0.0.1",
+  "description": "Use DUO 2FA in your hubot scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'yolo'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neufeldtech/hubot-duo.git"
+  },
+  "keywords": [
+    "hubot",
+    "duo",
+    "hubot-duo",
+    "2FA",
+    "two-factor-authentication",
+    "authentication",
+    "auth",
+    "two-factor"
+  ],
+  "author": "Jordan Neufeld <myjc.niv@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neufeldtech/hubot-duo/issues"
+  },
+  "homepage": "https://github.com/neufeldtech/hubot-duo#readme"
+}
