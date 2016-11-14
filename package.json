@@ -2,7 +2,7 @@
   "name": "hubot-duo",
   "version": "0.0.1",
   "description": "Use DUO 2FA in your hubot scripts",
-  "main": "index.js",
+  "main": "index.coffee",
   "scripts": {
     "test": "echo 'yolo'"
   },
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/neufeldtech/hubot-duo/issues"
   },
-  "homepage": "https://github.com/neufeldtech/hubot-duo#readme"
+  "homepage": "https://github.com/neufeldtech/hubot-duo#readme",
+  "dependencies": {
+    "duo-api": "^1.0.10"
+  }
 }
